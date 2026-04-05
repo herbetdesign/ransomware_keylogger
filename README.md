@@ -1,5 +1,7 @@
 # 🔐 Simulação de Malware com Python (Ransomware + Keylogger)
 
+![Imagem Prints](prints.png)
+
 ## 📌 Sobre o Projeto
 
 Este projeto foi desenvolvido com o objetivo de **compreender, na prática, o funcionamento de malwares**, especificamente:
